@@ -5,5 +5,3 @@ class AnnotationSerializer(serializers.ModelSerializer):
     class Meta:
         model = Annotation
         fields = '__all__'
-
-#serializer
